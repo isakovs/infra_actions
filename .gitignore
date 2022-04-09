@@ -8,8 +8,8 @@ __pycache__/
 .AppleDouble
 .LSOverride
 
-*.sublime-project
-*.sublime-workspace
+# *.sublime-project
+# *.sublime-workspace
 
 .vscode/
 *.code-workspace
